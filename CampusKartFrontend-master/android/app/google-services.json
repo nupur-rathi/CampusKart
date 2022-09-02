@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757297238754",
+    "project_id": "campuskart-login",
+    "storage_bucket": "campuskart-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757297238754:android:a189dddb718ab0ce1d04bb",
+        "android_client_info": {
+          "package_name": "com.example.olx_iit_ropar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757297238754-p92a1g54uon411auh31phh83je5auakn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Nrr7CN44mAILDG__fzphW9t6vR_4x2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757297238754-p92a1g54uon411auh31phh83je5auakn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
