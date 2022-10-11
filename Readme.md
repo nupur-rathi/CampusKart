@@ -3,10 +3,10 @@
 CampusKart is a flutter based application that allows students, faculty, and support staff from IIT Ropar to list their products for sale to individuals who are interested in purchasing them.
 
 ### Tech Stack Used
-● Flutter for Frontend
-● Django for Backend
-● PostgreSQL for database
-● Firebase for User Authentication and Notifications
+1. Flutter for Frontend
+2. Django for Backend
+3. PostgreSQL for database
+4. Firebase for User Authentication and Notifications
 
 ## Features
 1. Registration with email verification using IIT Ropar email IDs.
