@@ -43,6 +43,7 @@ CampusKart is a flutter based application that allows students, faculty, and sup
 ![image](https://user-images.githubusercontent.com/67869502/195034213-13a1841a-ae38-4eaa-943c-b3bab62ae5cd.png)
 ![image](https://user-images.githubusercontent.com/67869502/195034313-f0af6c70-b1ac-4f0f-b2b9-91665926f191.png)
 ![image](https://user-images.githubusercontent.com/67869502/195034366-60053e6b-a3b2-4334-93d9-5f67d7ee1fe2.png)
+![image](https://user-images.githubusercontent.com/67869502/195034456-9a2abfdb-0bb9-4e03-b478-4708ba7af155.png)
 ![image](https://user-images.githubusercontent.com/67869502/195034790-b52a9bec-780c-494d-9544-9a130ddd84dc.png)
 ![image](https://user-images.githubusercontent.com/67869502/195034882-b2b3a083-ac82-4401-8469-ae24107f1bc6.png)
 ![image](https://user-images.githubusercontent.com/67869502/195034931-09278f57-f5ef-4369-8b17-389e7a26d3fc.png)
@@ -51,7 +52,4 @@ CampusKart is a flutter based application that allows students, faculty, and sup
 
 
 
-
-
-![image](https://user-images.githubusercontent.com/67869502/195034456-9a2abfdb-0bb9-4e03-b478-4708ba7af155.png)
 
